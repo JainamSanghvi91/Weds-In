@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160991820402",
+    "project_id": "weds-in",
+    "storage_bucket": "weds-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160991820402:android:57d91e33e53a56b475e0eb",
+        "android_client_info": {
+          "package_name": "com.example.wedsinui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160991820402-2vl79um4df8vth860rp3fo998mvv0rfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wedsinui",
+            "certificate_hash": "057cec545da773039193b1a9366848367deb8744"
+          }
+        },
+        {
+          "client_id": "160991820402-hfamrc15oum83865v7e29sdst3ph3uik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3JL5d1FxXsb7HtVyzxVwsxBynCHfJElM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160991820402-hfamrc15oum83865v7e29sdst3ph3uik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
